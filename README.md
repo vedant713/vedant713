@@ -1,4 +1,5 @@
-# 👋 Hi there, I'm Vedant Dhoke!
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4A90E2&width=435&lines=Hello!+I'm+Vedant+Dhoke;Software+Engineer+%7C+AI+Enthusiast;Open+Source+Contributor" />
+
 
 🎯 AI-driven Software Engineer | Full-Stack Developer | Data Analyst  
 🔬 Passionate about building scalable systems, AI/ML solutions, and intuitive user experiences.
