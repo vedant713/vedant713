@@ -69,6 +69,7 @@
 ![Vedant's GitHub stats](https://github-readme-stats.vercel.app/api?username=vedant713&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vedant713&layout=compact&theme=tokyonight)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vedant713&theme=tokyonight)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vedant713&theme=github-compact)
 
 ---
 
