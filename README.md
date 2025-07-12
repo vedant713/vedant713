@@ -70,8 +70,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vedant713&layout=compact&theme=tokyonight)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vedant713&theme=tokyonight)
 
-![Metrics](https://metrics.lecoq.io/vedant713?template=classic&base.metadata=0&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=America%2FNew_York)
-
 ---
 
 ## 📫 Contact Me
