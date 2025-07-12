@@ -1,6 +1,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4A90E2&width=435&lines=Hello!+I'm+Vedant+Dhoke;Software+Engineer+%7C+AI+Enthusiast;Open+Source+Contributor" />
 
-🎯 AI-driven Software Engineer | Full-Stack Developer | Data Analyst  
+🎯 AI-driven Software Engineer | Full-Stack Developer | Data Science Enthusiast 
 🔬 Passionate about building scalable systems, AI/ML solutions, and intuitive user experiences.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vedant--dhokee-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vedant-dhokee) 
