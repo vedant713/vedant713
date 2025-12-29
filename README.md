@@ -30,7 +30,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/vedant713?template=classic&base=header,activity,community,repositories,metadata&config.timezone=Asia%2FKolkata&config.display=large&config.padding=0,0&config.color_mode=dark" alt="Detailed Metrics" />
+  <img src="https://metrics.lecoq.io/vedant713?template=classic&base=header,activity,community,repositories,metadata&config.timezone=Asia%2FKolkata&config.display=large&config.padding=0,0&config.color_mode=dark&plugin_isocalendar=yes&plugin_achievements=yes&plugin_achievements_display=compact" alt="Detailed Metrics" />
 </div>
 
 ---
@@ -67,7 +67,7 @@
 | :---: | :---: |
 | [![Job Search](./assets/images/job-search.png)](https://github.com/vedant713/ai-job-search-companion) | [![Workday](./assets/images/workday.png)](https://github.com/vedant713/workday-skills-autofill) |
 | **Your Career Copilot.** <br> Full-stack platform using React, Next.js, and MySQL for AI-driven job query assistance and smart task management. | **Automate the Mundane.** <br> Chrome extension automating Workday skill updates, reducing manual entry time by 80%. |
-| `Next.js` `React` `MySQL` | `JavaScript` `Chrome Extension` |
+| ![](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white) | ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![](https://img.shields.io/badge/Chrome_Extension-4285F4?style=flat-square&logo=google-chrome&logoColor=white) |
 
 ---
 
