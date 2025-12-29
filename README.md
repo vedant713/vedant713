@@ -37,8 +37,6 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-## 🔧 Tech Stack
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/vedant713/vedant713/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
 </div>
@@ -48,16 +46,35 @@
 <div align="center">
   <table border="0">
     <tr>
-      <td align="center" width="120"><b>Languages</b></td>
-      <td><img src="https://skillicons.dev/icons?i=py,js,ts,java,cpp,html,css&theme=dark" /></td>
-    </tr>
-    <tr>
-      <td align="center" width="120"><b>AI & Data</b></td>
-      <td><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,pandas,numpy,postgres,mongo&theme=dark" /></td>
-    </tr>
-    <tr>
-      <td align="center" width="120"><b>Full Stack</b></td>
-      <td><img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flask,fastapi,aws,docker,kubernetes,git,github,vscode&theme=dark" /></td>
+      <td width="55%" align="left">
+        <h3>💻 Tech Stack</h3>
+        <table border="0">
+          <tr>
+            <td width="100"><b>Languages</b></td>
+            <td><img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,html,css&theme=dark" /></td>
+          </tr>
+          <tr>
+            <td width="100"><b>AI & Data</b></td>
+            <td><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,numpy,opencv&theme=dark" /></td>
+          </tr>
+          <tr>
+            <td width="100"><b>Backend</b></td>
+            <td><img src="https://skillicons.dev/icons?i=nodejs,flask,fastapi,postgres,mongo,mysql&theme=dark" /></td>
+          </tr>
+          <tr>
+            <td width="100"><b>DevOps</b></td>
+            <td><img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,vscode&theme=dark" /></td>
+          </tr>
+          <tr>
+            <td width="100"><b>Frontend</b></td>
+            <td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux&theme=dark" /></td>
+          </tr>
+        </table>
+      </td>
+      <td width="45%" align="center">
+        <br/>
+        <img src="https://media.giphy.com/media/LNvOf1V8I2mZ3y8rY8/giphy.gif" width="100%">
+      </td>
     </tr>
   </table>
 </div>
@@ -84,21 +101,26 @@
 
 <h3 align="center">🏆 Achievements & Stats</h3>
 
-<div align="center">
-  <!-- Trophies -->
   <a href="https://github.com/ryo-ma/github-profile-trophies">
     <img src="https://github-profile-trophies.vercel.app/?username=vedant713&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="vedant713's Trophies" />
   </a>
   
   <br/><br/>
 
-  <!-- Stats Row -->
-  <img src="https://komarev.com/ghpvc/?username=vedant713&style=flat-square&color=F80C93&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=vedant713&show_icons=true&theme=radical&count_private=true" alt="Vedant's Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant713&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+  
   <br/>
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=vedant713&theme=radical" alt="GitHub Streak" />
-  </a>
-</div>
+  <img src="https://komarev.com/ghpvc/?username=vedant713&style=flat-square&color=F80C93&label=PROFILE+VIEWS" alt="Profile Views"/>
+</div>fi
 
 <br/>
 
