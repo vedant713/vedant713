@@ -51,13 +51,13 @@
 
 ## 🚀 Featured Projects
 
-| Multi-Agent Brainstorming System | Zero Click Assistant Sleek |
+| [Multi-Agent Brainstorming System](https://github.com/vedant713/multi-agent-brainstorming-system) | [Zero Click Assistant Sleek](https://github.com/vedant713/zero-click-assistant-sleek) |
 | :---: | :---: |
 | [![Brainstorming](./assets/images/brainstorming.png)](https://github.com/vedant713/multi-agent-brainstorming-system) | [![Zero Click](./assets/images/zero-click.png)](https://github.com/vedant713/zero-click-assistant-sleek) |
 | **Think Deeper, Faster.** <br> A structured idea generation platform leveraging multiple AI agents (Debate, Research, Supervisor) to facilitate deep brainstorming and synthesis. | **Effortless Automation.** <br> An advanced personal assistant designed for zero-friction automation, handling tasks with minimal user interaction. |
 | `Python` `Gemini` `Streamlit` | `Python` `Automation` `AI` |
 
-| AI Job Search Companion | Workday Skills Autofill |
+| [AI Job Search Companion](https://github.com/vedant713/ai-job-search-companion) | [Workday Skills Autofill](https://github.com/vedant713/workday-skills-autofill) |
 | :---: | :---: |
 | [![Job Search](./assets/images/job-search.png)](https://github.com/vedant713/ai-job-search-companion) | [![Workday](./assets/images/workday.png)](https://github.com/vedant713/workday-skills-autofill) |
 | **Your Career Copilot.** <br> Full-stack platform using React, Next.js, and MySQL for AI-driven job query assistance and smart task management. | **Automate the Mundane.** <br> Chrome extension automating Workday skill updates, reducing manual entry time by 80%. |
