@@ -10,10 +10,10 @@
         <b>AI-driven Software Engineer | Full-Stack Developer</b><br/>
         🎓 MS in Computer Science @ Syracuse University
         <br/><br/>
-        🔭 I’m currently working on **Multi-Agent Systems & AI Agents**<br/>
-        🌱 I’m currently learning **Advanced LLM Fine-tuning & RAG Pipelines**<br/>
-        👯 I’m looking to collaborate on **Open Source AI Tools**<br/>
-        💬 Ask me about **Python, React, AI Agents, and scalable systems**
+        🔭 I’m currently working on  <b>Multi-Agent Systems & AI Agent</b><br/>
+        🌱 I’m currently learning  <b>Advanced LLM Fine-tuning & RAG Pipeline </b><br/>
+        👯 I’m looking to collaborate on  <b>Open Source AI Tools </b><br/>
+        💬 Ask me about <b>Python, React, AI Agents, and scalable systems </b>
         <br/><br/>
         <a href="https://www.linkedin.com/in/vedant-dhokee" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
         <a href="mailto:vedant713@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
