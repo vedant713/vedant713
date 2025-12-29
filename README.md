@@ -6,11 +6,22 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </div>
 
-🎯 AI-driven Software Engineer | Full-Stack Developer | Data Science Enthusiast 
-🔬 Passionate about building scalable systems, AI/ML solutions, and intuitive user experiences.
+<h3 align="center">🎯 AI-driven Software Engineer | Full-Stack Developer | Data Science Enthusiast</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-vedant--dhokee-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vedant-dhokee) 
-[![Email](https://img.shields.io/badge/Email-vedant713%40gmail.com-red?style=flat-square&logo=gmail)](mailto:vedant713@gmail.com)
+<div align="center">
+
+  🔭 I’m currently working on **Multi-Agent Systems & AI Agents**  
+  🌱 I’m currently learning **Advanced LLM Fine-tuning & RAG Pipelines**  
+  👯 I’m looking to collaborate on **Open Source AI Tools**  
+  💬 Ask me about **Python, React, AI Agents, and scalable systems**  
+
+<br/>
+
+<a href="https://www.linkedin.com/in/vedant-dhokee" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a> 
+<a href="mailto:vedant713@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></a>
+<a href="https://github.com/vedant713" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" /></a>
+
+</div>
 
 ---
 
@@ -80,15 +91,15 @@
   <img src="https://github-readme-stats.vercel.app/api?username=vedant713&show_icons=true&theme=radical" alt="Vedant's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant713&layout=compact&theme=radical" alt="Top Langs" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedant713&theme=radical" alt="GitHub Streak" />
+  <br/>
+  <br/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the Day" />
 </div>
 
 ---
 
-## 📫 Contact Me
-
-📧 [vedant713@gmail.com](mailto:vedant713@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/vedant-dhokee)
-
 ---
 
-✨ *Thanks for visiting my profile!*
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,30&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=25&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
+</div>
