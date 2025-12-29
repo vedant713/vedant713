@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&pause=1000&color=F80C93&background=2d004d&center=true&vCenter=true&width=1000&lines=Hello!+I'm+Vedant+Dhoke;Software+Engineer+%7C+AI+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=F80C93&background=2d004d&center=true&vCenter=true&width=1200&lines=Hello!+I'm+Vedant+Dhoke;Software+Engineer+%7C+AI+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
   </a>
   <br/>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -26,7 +26,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vedant713&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="vedant713" />
+  [![vedant713](https://github-profile-trophy.vercel.app/?username=vedant713&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://github.com/vedant713)
 </div>
 
 ---
@@ -95,9 +95,9 @@
   <br/>
   <br/>
   
-| <img src="https://github-readme-stats.vercel.app/api?username=vedant713&show_icons=true&theme=radical" alt="Vedant's GitHub stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant713&layout=compact&theme=radical" alt="Top Langs" /> |
+| ![Vedant's GitHub stats](https://github-readme-stats.vercel.app/api?username=vedant713&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vedant713&layout=compact&theme=radical) |
 | :---: | :---: |
-| <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedant713&theme=radical" alt="GitHub Streak" /> | **Keep the streak alive!** ⚡ |
+| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vedant713&theme=radical) | **Keep the streak alive!** ⚡ |
 
   <br/>
   <br/>
