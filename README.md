@@ -1,28 +1,29 @@
 <div align="center">
+  <h1>Hi, I'm Vedant! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+  
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=F80C93&background=2d004d&center=true&vCenter=true&width=1200&lines=Hello!+I'm+Vedant+Dhoke;Software+Engineer+%7C+AI+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F80C93&center=true&vCenter=true&width=435&lines=Software+Engineer;AI+%26+Data+Scientist;Open+Source+Contributor" alt="Typing SVG" />
   </a>
+  
+  <p align="center">
+    <b>AI-driven Software Engineer | Full-Stack Developer | Data Science Enthusiast</b><br/>
+    🎓 MS in Computer Science @ Syracuse University
+  </p>
+
   <br/>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</div>
 
-<h3 align="center">🎯 AI-driven Software Engineer | Full-Stack Developer | Data Science Enthusiast</h3>
-<h3 align="center">🎓 MS in Computer Science @ Syracuse University</h3>
+  <p align="left">
+    &nbsp;&nbsp;&nbsp;&nbsp;🔭 I’m currently working on **Multi-Agent Systems & AI Agents**<br/>
+    &nbsp;&nbsp;&nbsp;&nbsp;🌱 I’m currently learning **Advanced LLM Fine-tuning & RAG Pipelines**<br/>
+    &nbsp;&nbsp;&nbsp;&nbsp;👯 I’m looking to collaborate on **Open Source AI Tools**<br/>
+    &nbsp;&nbsp;&nbsp;&nbsp;💬 Ask me about **Python, React, AI Agents, and scalable systems**
+  </p>
 
-<div align="center">
+  <br/>
 
-  🔭 I’m currently working on **Multi-Agent Systems & AI Agents**  
-  🌱 I’m currently learning **Advanced LLM Fine-tuning & RAG Pipelines**  
-  👯 I’m looking to collaborate on **Open Source AI Tools**  
-  💬 Ask me about **Python, React, AI Agents, and scalable systems**  
-
-<br/>
-
-<a href="https://www.linkedin.com/in/vedant-dhokee" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a> 
-<a href="mailto:vedant713@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></a>
-<a href="https://github.com/vedant713" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" /></a>
-<a href="https://vedantdhoke.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" target="_blank" /></a>
-
+  <a href="https://www.linkedin.com/in/vedant-dhokee" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  <a href="mailto:vedant713@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://vedantdhoke.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </div>
 
 <br/>
