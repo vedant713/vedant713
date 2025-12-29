@@ -40,13 +40,26 @@
 ## 🔧 Tech Stack
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,fastapi,flask,js,ts,react,nodejs,html,css&theme=dark" />
-    <br/>
-    <img src="https://skillicons.dev/icons?i=postgres,mongo,aws,docker,kubernetes,git,github,vscode&theme=dark" />
-    <br/>
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,pandas,numpy&theme=dark" />
-  </a>
+  <img src="https://raw.githubusercontent.com/vedant713/vedant713/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" width="120"><b>Languages</b></td>
+      <td><img src="https://skillicons.dev/icons?i=py,js,ts,java,cpp,html,css&theme=dark" /></td>
+    </tr>
+    <tr>
+      <td align="center" width="120"><b>AI & Data</b></td>
+      <td><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,pandas,numpy,postgres,mongo&theme=dark" /></td>
+    </tr>
+    <tr>
+      <td align="center" width="120"><b>Full Stack</b></td>
+      <td><img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flask,fastapi,aws,docker,kubernetes,git,github,vscode&theme=dark" /></td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
