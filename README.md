@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&pause=1000&color=F80C93&background=2d004d&center=true&vCenter=true&width=500&lines=Hello!+I'm+Vedant+Dhoke;Software+Engineer+%7C+AI+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&pause=1000&color=F80C93&background=2d004d&center=true&vCenter=true&width=700&lines=Hello!+I'm+Vedant+Dhoke;Software+Engineer+%7C+AI+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
   </a>
   <br/>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -88,9 +88,9 @@
   <img src="https://komarev.com/ghpvc/?username=vedant713&style=flat-square&color=F80C93&label=PROFILE+VIEWS" alt="Profile Views"/>
   <br/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=vedant713&show_icons=true&theme=radical" alt="Vedant's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant713&layout=compact&theme=radical" alt="Top Langs" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedant713&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vedant713&amp;show_icons=true&amp;theme=radical" alt="Vedant's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant713&amp;layout=compact&amp;theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedant713&amp;theme=radical" alt="GitHub Streak" />
   <br/>
   <br/>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the Day" />
