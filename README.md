@@ -73,7 +73,7 @@
       </td>
       <td width="45%" align="center">
         <br/>
-        <img src="https://media.giphy.com/media/LNvOf1V8I2mZ3y8rY8/giphy.gif" width="100%">
+        <img src="https://media.giphy.com/media/13HgwGsXf0aiGY/giphy.gif" width="100%">
       </td>
     </tr>
   </table>
@@ -110,17 +110,17 @@
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=vedant713&show_icons=true&theme=radical&count_private=true" alt="Vedant's Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=vedant713&amp;show_icons=true&amp;theme=radical&amp;count_private=true" alt="Vedant's Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant713&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant713&amp;layout=compact&amp;theme=radical&amp;langs_count=8" alt="Top Languages" />
       </td>
     </tr>
   </table>
   
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=vedant713&style=flat-square&color=F80C93&label=PROFILE+VIEWS" alt="Profile Views"/>
-</div>fi
+  <img src="https://komarev.com/ghpvc/?username=vedant713&amp;style=flat-square&amp;color=F80C93&amp;label=PROFILE+VIEWS" alt="Profile Views"/>
+</div>
 
 <br/>
 
