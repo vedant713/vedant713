@@ -29,9 +29,7 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://metrics.lecoq.io/vedant713?template=classic&base=header,activity,community,repositories,metadata&config.timezone=Asia%2FKolkata&config.display=large&config.padding=0,0&config.color_mode=dark&plugin_isocalendar=yes&plugin_achievements=yes&plugin_achievements_display=compact" alt="Detailed Metrics" />
-</div>
+
 
 ---
 
