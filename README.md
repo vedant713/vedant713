@@ -28,7 +28,7 @@
 <br/>
 
 <div align="center">
-  <img src="./github-metrics.svg" alt="Detailed Metrics" />
+  <img src="https://metrics.lecoq.io/vedant713?template=classic&base=header,activity,community,repositories,metadata&config.timezone=Asia%2FKolkata" alt="Detailed Metrics" />
 </div>
 
 ---
