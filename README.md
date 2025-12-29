@@ -23,6 +23,12 @@
 
 </div>
 
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vedant713&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="vedant713" />
+</div>
+
 ---
 
 ## 🔧 Tech Stack
@@ -88,9 +94,11 @@
   <img src="https://komarev.com/ghpvc/?username=vedant713&style=flat-square&color=F80C93&label=PROFILE+VIEWS" alt="Profile Views"/>
   <br/>
   <br/>
-  ![Vedant's GitHub stats](https://github-readme-stats.vercel.app/api?username=vedant713&show_icons=true&theme=radical)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vedant713&layout=compact&theme=radical)
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vedant713&theme=radical)
+  
+| <img src="https://github-readme-stats.vercel.app/api?username=vedant713&show_icons=true&theme=radical" alt="Vedant's GitHub stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant713&layout=compact&theme=radical" alt="Top Langs" /> |
+| :---: | :---: |
+| <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedant713&theme=radical" alt="GitHub Streak" /> | **Keep the streak alive!** ⚡ |
+
   <br/>
   <br/>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the Day" />
