@@ -86,7 +86,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-## 🚀 Featured Projects
+<h2 align="center">🚀 Featured Projects</h2>
 
 | [Multi-Agent Brainstorming System](https://github.com/vedant713/multi-agent-brainstorming-system) | [Zero Click Assistant Sleek](https://github.com/vedant713/zero-click-assistant-sleek) |
 | :---: | :---: |
@@ -102,7 +102,9 @@
 
 ---
 
-<h3 align="center">🏆 Achievements & Stats</h3>
+<div align="center">
+
+<h3>🏆 Achievements & Stats</h3>
 
   <a href="https://github.com/ryo-ma/github-profile-trophies">
     <img src="https://github-profile-trophies.vercel.app/?username=vedant713&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="vedant713's Trophies" />
@@ -110,16 +112,6 @@
   
   <br/><br/>
 
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=vedant713&amp;show_icons=true&amp;theme=radical&amp;count_private=true" alt="Vedant's Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant713&amp;layout=compact&amp;theme=radical&amp;langs_count=8" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
   
   <br/>
   <img src="https://komarev.com/ghpvc/?username=vedant713&amp;style=flat-square&amp;color=F80C93&amp;label=PROFILE+VIEWS" alt="Profile Views"/>
