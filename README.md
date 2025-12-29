@@ -97,10 +97,8 @@
   <br/>
   <br/>
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=vedant713&theme=radical)](https://git.io/streak-stats)
-  <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vedant713&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-  [![Vedant's GitHub stats](https://github-readme-stats.vercel.app/api?username=vedant713&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vedant713&theme=radical" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vedant713&theme=radical" alt="Most Commits Language" />
 
   <br/>
   <br/>
