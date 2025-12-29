@@ -28,7 +28,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vedant713&theme=radical" alt="Vedant's Profile Details" />
+  <img src="./github-metrics.svg" alt="Detailed Metrics" />
 </div>
 
 ---
@@ -97,11 +97,6 @@
   <br/>
   <br/>
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vedant713&theme=radical" alt="Repos Per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vedant713&theme=radical" alt="Most Commits Language" />
-
-  <br/>
-  <br/>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the Day" />
 </div>
 
