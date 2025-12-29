@@ -110,7 +110,6 @@
     <img src="https://github-profile-trophies.vercel.app/?username=vedant713&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="vedant713's Trophies" />
   </a>
   
-  <br/><br/>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=vedant713&amp;style=for-the-badge&amp;color=F80C93&amp;label=PROFILE+VIEWS" alt="Profile Views"/>
 </div>
