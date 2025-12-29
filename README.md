@@ -1,30 +1,30 @@
 <div align="center">
-  <h1>Hi, I'm Vedant! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F80C93&center=true&vCenter=true&width=435&lines=Software+Engineer;AI+%26+Data+Scientist;Open+Source+Contributor" alt="Typing SVG" />
-  </a>
-  
-  <p align="center">
-    <b>AI-driven Software Engineer | Full-Stack Developer | Data Science Enthusiast</b><br/>
-    🎓 MS in Computer Science @ Syracuse University
-  </p>
-
-  <br/>
-
-  <p align="left">
-    &nbsp;&nbsp;&nbsp;&nbsp;🔭 I’m currently working on **Multi-Agent Systems & AI Agents**<br/>
-    &nbsp;&nbsp;&nbsp;&nbsp;🌱 I’m currently learning **Advanced LLM Fine-tuning & RAG Pipelines**<br/>
-    &nbsp;&nbsp;&nbsp;&nbsp;👯 I’m looking to collaborate on **Open Source AI Tools**<br/>
-    &nbsp;&nbsp;&nbsp;&nbsp;💬 Ask me about **Python, React, AI Agents, and scalable systems**
-  </p>
-
-  <br/>
-
-  <a href="https://www.linkedin.com/in/vedant-dhokee" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-  <a href="mailto:vedant713@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://vedantdhoke.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://github.com/vedant713" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <table border="0">
+    <tr>
+      <td width="60%" align="left">
+        <h1>Hi, I'm Vedant! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+        <a href="https://git.io/typing-svg">
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F80C93&width=435&lines=Software+Engineer;AI+%26+Data+Scientist;Open+Source+Contributor" alt="Typing SVG" />
+        </a>
+        <br/>
+        <b>AI-driven Software Engineer | Full-Stack Developer</b><br/>
+        🎓 MS in Computer Science @ Syracuse University
+        <br/><br/>
+        🔭 I’m currently working on **Multi-Agent Systems & AI Agents**<br/>
+        🌱 I’m currently learning **Advanced LLM Fine-tuning & RAG Pipelines**<br/>
+        👯 I’m looking to collaborate on **Open Source AI Tools**<br/>
+        💬 Ask me about **Python, React, AI Agents, and scalable systems**
+        <br/><br/>
+        <a href="https://www.linkedin.com/in/vedant-dhokee" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+        <a href="mailto:vedant713@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+        <a href="https://vedantdhoke.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+        <a href="https://github.com/vedant713" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+      </td>
+      <td width="40%" align="center">
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%">
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
@@ -78,14 +78,15 @@
   <br/>
   <br/>
   [![GitHub Streak](https://streak-stats.demolab.com?user=vedant713&theme=radical)](https://git.io/streak-stats)
-  <br/>
-  <br/>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the Day" />
 </div>
 
 ---
 
 ---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="Quote of the Day" />
+</div>
 
 
 <div align="center">
