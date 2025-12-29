@@ -28,7 +28,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/vedant713?template=classic&base=header,activity,community,repositories,metadata&config.timezone=Asia%2FKolkata" alt="Detailed Metrics" />
+  <img src="https://metrics.lecoq.io/vedant713?template=classic&base=header,activity,community,repositories,metadata&config.timezone=Asia%2FKolkata&config.display=large&config.padding=0,0&config.color_mode=dark" alt="Detailed Metrics" />
 </div>
 
 ---
@@ -90,13 +90,15 @@
 
 ---
 
-## 📈 GitHub Stats & Streak
+<h3 align="center">📈 GitHub Streak & Views</h3>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=vedant713&style=flat-square&color=F80C93&label=PROFILE+VIEWS" alt="Profile Views"/>
   <br/>
   <br/>
-  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=vedant713&theme=radical)](https://git.io/streak-stats)
+  <br/>
+  <br/>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the Day" />
 </div>
 
