@@ -114,7 +114,7 @@
 
   
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=vedant713&amp;style=flat-square&amp;color=F80C93&amp;label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=vedant713&amp;style=for-the-badge&amp;color=F80C93&amp;label=PROFILE+VIEWS" alt="Profile Views"/>
 </div>
 
 <br/>
