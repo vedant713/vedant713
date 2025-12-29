@@ -55,7 +55,10 @@
           </tr>
           <tr>
             <td width="100"><b>AI & Data</b></td>
-            <td><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,numpy,opencv&theme=dark" /></td>
+            <td>
+              <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" />
+              <img src="https://skillicons.dev/icons?i=pandas,numpy,opencv&theme=dark" />
+            </td>
           </tr>
           <tr>
             <td width="100"><b>Backend</b></td>
@@ -73,7 +76,7 @@
       </td>
       <td width="45%" align="center">
         <br/>
-        <img src="https://media.giphy.com/media/13HgwGsXf0aiGY/giphy.gif" width="100%">
+        <img src="https://media.giphy.com/media/u441a5v8W2fN7r4sB9/giphy.gif" width="100%" alt="Cyberpunk City">
       </td>
     </tr>
   </table>
