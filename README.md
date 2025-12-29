@@ -1,4 +1,10 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4A90E2&width=435&lines=Hello!+I'm+Vedant+Dhoke;Software+Engineer+%7C+AI+Enthusiast;Open+Source+Contributor" />
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&pause=1000&color=F80C93&center=true&vCenter=true&width=500&lines=Hello!+I'm+Vedant+Dhoke;Software+Engineer+%7C+AI+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  </a>
+  <br/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</div>
 
 🎯 AI-driven Software Engineer | Full-Stack Developer | Data Science Enthusiast 
 🔬 Passionate about building scalable systems, AI/ML solutions, and intuitive user experiences.
@@ -67,9 +73,14 @@
 
 ## 📈 GitHub Stats & Streak
 
-![Vedant's GitHub stats](https://github-readme-stats.vercel.app/api?username=vedant713&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vedant713&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vedant713&theme=tokyonight)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=vedant713&style=flat-square&color=F80C93&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <br/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vedant713&show_icons=true&theme=radical" alt="Vedant's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant713&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedant713&theme=radical" alt="GitHub Streak" />
+</div>
 
 ---
 
