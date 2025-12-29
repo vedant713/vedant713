@@ -83,7 +83,9 @@
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="Quote of the Day" />
+  <a href="https://github.com/ryo-ma/github-profile-trophies">
+    <img src="https://github-profile-trophies.vercel.app/?username=vedant713&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="vedant713's Trophies" />
+  </a>
 </div>
 
 
