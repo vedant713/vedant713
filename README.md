@@ -69,24 +69,25 @@
 
 ---
 
-<h3 align="center">📈 GitHub Streak & Views</h3>
+<h3 align="center">🏆 Achievements & Stats</h3>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=vedant713&style=flat-square&color=F80C93&label=PROFILE+VIEWS" alt="Profile Views"/>
-  <br/>
-  <br/>
-  [![GitHub Streak](https://streak-stats.demolab.com?user=vedant713&theme=radical)](https://git.io/streak-stats)
-</div>
-
----
-
----
-
-<div align="center">
+  <!-- Trophies -->
   <a href="https://github.com/ryo-ma/github-profile-trophies">
     <img src="https://github-profile-trophies.vercel.app/?username=vedant713&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="vedant713's Trophies" />
   </a>
+  
+  <br/><br/>
+
+  <!-- Stats Row -->
+  <img src="https://komarev.com/ghpvc/?username=vedant713&style=flat-square&color=F80C93&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <br/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=vedant713&theme=radical" alt="GitHub Streak" />
+  </a>
 </div>
+
+<br/>
 
 
 <div align="center">
