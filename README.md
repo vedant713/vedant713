@@ -95,9 +95,8 @@
   <br/>
   <br/>
   
-| ![Vedant's GitHub stats](https://github-readme-stats.vercel.app/api?username=vedant713&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vedant713&layout=compact&theme=radical) |
-| :---: | :---: |
-| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vedant713&theme=radical) | **Keep the streak alive!** ⚡ |
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vedant713&theme=radical" alt="Git Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vedant713&theme=radical&utcOffset=8" alt="Productive Time" />
 
   <br/>
   <br/>
