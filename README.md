@@ -96,6 +96,13 @@
 | **Your Intelligent Career Copilot.** <br> • AI-powered application tracking <br> • Smart dashboard for task management <br> • Skill gap identification & bridging | **80% Faster Job Applications.** <br> • Automates Workday skills entry <br> • Resume Parsing auto-extracts skills <br> • Job Match Scanning & Gap Analysis |
 | `Next.js` `MySQL` `Recharts` `AI Analytics` | `JavaScript` `Chrome Extension` `Automation` |
 
+
+| [Global Terrorism Prediction](https://github.com/vedant713/global-terrorism-prediction) | [OmniCluster Data Studio](https://github.com/vedant713/CodeClauseInternship_OmniCluster) |
+| :--- | :--- |
+| [![Global Terrorism](./assets/images/global-terrorism.png)](https://github.com/vedant713/global-terrorism-prediction) | [![OmniCluster](./assets/images/omnicluster.png)](https://github.com/vedant713/CodeClauseInternship_OmniCluster) |
+| **Predicting Conflict Zones with AI.** <br> • 3D Global Incident Sphere & Heatmaps <br> • Real-time Fatality Prediction (XGBoost) <br> • AI Security Analyst (Gemini) Briefings | **Universal Data Analysis Studio.** <br> • Smart Data Connectivity (150+ Datasets) <br> • AI-Powered Insights & "Chat with Data" <br> • 3D Cluster Visualization & Auto-ML |
+| `FastAPI` `Streamlit` `XGBoost` `Docker` | `Python` `Streamlit` `Scikit-Learn` `Gemini` |
+
 ---
 
 <div align="center">
