@@ -84,24 +84,110 @@
 
 <h2 align="center">🚀 Featured Projects</h2>
 
-| [Multi-Agent Brainstorming System](https://github.com/vedant713/multi-agent-brainstorming-system) | [Zero Click Assistant Sleek](https://github.com/vedant713/zero-click-assistant-sleek) |
-| :--- | :--- |
-| [![Brainstorming](./assets/images/brainstorming.png)](https://github.com/vedant713/multi-agent-brainstorming-system) | [![Zero Click](./assets/images/zero-click.png)](https://github.com/vedant713/zero-click-assistant-sleek) |
-| **Orchestrating AI for Deep Thought.** <br> • Specialized Agents (Optimist, Skeptic, Analyst) <br> • Continuous, progressive debate <br> • Real-time streaming & semantic clustering | **Automation at the Speed of Thought.** <br> • "Read-my-screen" AI assistant <br> • Continuous voice interaction <br> • Zero-click workflow automation |
-| `Python` `Gemini` `Next.js` `Supabase` | `Electron` `React` `OpenAI` `Automation` |
-
-| [AI Job Search Companion](https://github.com/vedant713/ai-job-search-companion) | [Workday Skills Autofill](https://github.com/vedant713/workday-skills-autofill) |
-| :--- | :--- |
-| [![Job Search](./assets/images/job-search.png)](https://github.com/vedant713/ai-job-search-companion) | [![Workday](./assets/images/workday.png)](https://github.com/vedant713/workday-skills-autofill) |
-| **Your Intelligent Career Copilot.** <br> • AI-powered application tracking <br> • Smart dashboard for task management <br> • Skill gap identification & bridging | **80% Faster Job Applications.** <br> • Automates Workday skills entry <br> • Resume Parsing auto-extracts skills <br> • Job Match Scanning & Gap Analysis |
-| `Next.js` `MySQL` `Recharts` `AI Analytics` | `JavaScript` `Chrome Extension` `Automation` |
-
-
-| [Global Terrorism Prediction](https://github.com/vedant713/global-terrorism-prediction) | [OmniCluster Data Studio](https://github.com/vedant713/CodeClauseInternship_OmniCluster) |
-| :--- | :--- |
-| [![Global Terrorism](./assets/images/global-terrorism.png)](https://github.com/vedant713/global-terrorism-prediction) | [![OmniCluster](./assets/images/omnicluster.png)](https://github.com/vedant713/CodeClauseInternship_OmniCluster) |
-| **Predicting Conflict Zones with AI.** <br> • 3D Global Incident Sphere & Heatmaps <br> • Real-time Fatality Prediction (XGBoost) <br> • AI Security Analyst (Gemini) Briefings | **Universal Data Analysis Studio.** <br> • Smart Data Connectivity (150+ Datasets) <br> • AI-Powered Insights & "Chat with Data" <br> • 3D Cluster Visualization & Auto-ML |
-| `FastAPI` `Streamlit` `XGBoost` `Docker` | `Python` `Streamlit` `Scikit-Learn` `Gemini` |
+<table width="100%">
+<tr>
+<td width="50%">
+<a href="https://github.com/vedant713/multi-agent-brainstorming-system"><b>Multi-Agent Brainstorming System</b></a>
+</td>
+<td width="50%">
+<a href="https://github.com/vedant713/zero-click-assistant-sleek"><b>Zero Click Assistant Sleek</b></a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<a href="https://github.com/vedant713/multi-agent-brainstorming-system"><img src="./assets/images/brainstorming.png" width="100%"></a>
+</td>
+<td width="50%">
+<a href="https://github.com/vedant713/zero-click-assistant-sleek"><img src="./assets/images/zero-click.png" width="100%"></a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<b>Orchestrating AI for Deep Thought.</b> <br> • Specialized Agents (Optimist, Skeptic, Analyst) <br> • Continuous, progressive debate <br> • Real-time streaming & semantic clustering
+</td>
+<td width="50%">
+<b>Automation at the Speed of Thought.</b> <br> • "Read-my-screen" AI assistant <br> • Continuous voice interaction <br> • Zero-click workflow automation
+</td>
+</tr>
+<tr>
+<td width="50%">
+<code>Python</code> <code>Gemini</code> <code>Next.js</code> <code>Supabase</code>
+</td>
+<td width="50%">
+<code>Electron</code> <code>React</code> <code>OpenAI</code> <code>Automation</code>
+</td>
+</tr>
+</table>
+<br>
+<table width="100%">
+<tr>
+<td width="50%">
+<a href="https://github.com/vedant713/ai-job-search-companion"><b>AI Job Search Companion</b></a>
+</td>
+<td width="50%">
+<a href="https://github.com/vedant713/workday-skills-autofill"><b>Workday Skills Autofill</b></a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<a href="https://github.com/vedant713/ai-job-search-companion"><img src="./assets/images/job-search.png" width="100%"></a>
+</td>
+<td width="50%">
+<a href="https://github.com/vedant713/workday-skills-autofill"><img src="./assets/images/workday.png" width="100%"></a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<b>Your Intelligent Career Copilot.</b> <br> • AI-powered application tracking <br> • Smart dashboard for task management <br> • Skill gap identification & bridging
+</td>
+<td width="50%">
+<b>80% Faster Job Applications.</b> <br> • Automates Workday skills entry <br> • Resume Parsing auto-extracts skills <br> • Job Match Scanning & Gap Analysis
+</td>
+</tr>
+<tr>
+<td width="50%">
+<code>Next.js</code> <code>MySQL</code> <code>Recharts</code> <code>AI Analytics</code>
+</td>
+<td width="50%">
+<code>JavaScript</code> <code>Chrome Extension</code> <code>Automation</code>
+</td>
+</tr>
+</table>
+<br>
+<table width="100%">
+<tr>
+<td width="50%">
+<a href="https://github.com/vedant713/global-terrorism-prediction"><b>Global Terrorism Prediction</b></a>
+</td>
+<td width="50%">
+<a href="https://github.com/vedant713/CodeClauseInternship_OmniCluster"><b>OmniCluster Data Studio</b></a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<a href="https://github.com/vedant713/global-terrorism-prediction"><img src="./assets/images/global-terrorism.png" width="100%"></a>
+</td>
+<td width="50%">
+<a href="https://github.com/vedant713/CodeClauseInternship_OmniCluster"><img src="./assets/images/omnicluster.png" width="100%"></a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<b>Predicting Conflict Zones with AI.</b> <br> • 3D Global Incident Sphere & Heatmaps <br> • Real-time Fatality Prediction (XGBoost) <br> • AI Security Analyst (Gemini) Briefings
+</td>
+<td width="50%">
+<b>Universal Data Analysis Studio.</b> <br> • Smart Data Connectivity (150+ Datasets) <br> • AI-Powered Insights & "Chat with Data" <br> • 3D Cluster Visualization & Auto-ML
+</td>
+</tr>
+<tr>
+<td width="50%">
+<code>FastAPI</code> <code>Streamlit</code> <code>XGBoost</code> <code>Docker</code>
+</td>
+<td width="50%">
+<code>Python</code> <code>Streamlit</code> <code>Scikit-Learn</code> <code>Gemini</code>
+</td>
+</tr>
+</table>
 
 ---
 
