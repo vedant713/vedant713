@@ -4,7 +4,7 @@
       <td width="60%" align="left">
         <h1>Hi, I'm Vedant! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
         <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F80C93&width=435&lines=Software+Engineer;AI+%26+Data+Scientist;Open+Source+Contributor" alt="Typing SVG" />
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F80C93&width=435&lines=Software+Engineer;AI+%26+Data+Scientist;Open+Source+Contributor" alt="Typing SVG" width="100%" />
         </a>
         <br/>
         <b>AI-driven Software Engineer | Full-Stack Developer</b><br/>
@@ -40,33 +40,33 @@
 <br/>
 
 <div align="center">
-  <table border="0">
+  <table border="0" width="100%">
     <tr>
       <td width="55%" align="left">
         <h3>💻 Tech Stack</h3>
         <table border="0">
           <tr>
-            <td width="100"><b>Languages</b></td>
-            <td><img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,html,css&theme=dark" /></td>
+            <td width="20%"><b>Languages</b></td>
+            <td><img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,html,css&theme=dark" width="100%" /></td>
           </tr>
           <tr>
-            <td width="100"><b>AI & Data</b></td>
+            <td width="20%"><b>AI & Data</b></td>
             <td>
-              <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" />
-              <img src="https://skillicons.dev/icons?i=pandas,numpy,opencv&theme=dark" />
+              <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" width="48%" />
+              <img src="https://skillicons.dev/icons?i=pandas,numpy,opencv&theme=dark" width="48%" />
             </td>
           </tr>
           <tr>
-            <td width="100"><b>Backend</b></td>
-            <td><img src="https://skillicons.dev/icons?i=nodejs,flask,fastapi,postgres,mongo,mysql&theme=dark" /></td>
+            <td width="20%"><b>Backend</b></td>
+            <td><img src="https://skillicons.dev/icons?i=nodejs,flask,fastapi,postgres,mongo,mysql&theme=dark" width="100%" /></td>
           </tr>
           <tr>
-            <td width="100"><b>DevOps</b></td>
-            <td><img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,vscode&theme=dark" /></td>
+            <td width="20%"><b>DevOps</b></td>
+            <td><img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,vscode&theme=dark" width="100%" /></td>
           </tr>
           <tr>
-            <td width="100"><b>Frontend</b></td>
-            <td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux&theme=dark" /></td>
+            <td width="20%"><b>Frontend</b></td>
+            <td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux&theme=dark" width="100%" /></td>
           </tr>
         </table>
       </td>
@@ -196,7 +196,7 @@
 <h3>🏆 Achievements & Stats</h3>
 
   <a href="https://github.com/ryo-ma/github-profile-trophies">
-    <img src="https://github-profile-trophies.vercel.app/?username=vedant713&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="vedant713's Trophies" />
+    <img src="https://github-profile-trophies.vercel.app/?username=vedant713&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="vedant713's Trophies" width="100%" />
   </a>
   
   <br/>
