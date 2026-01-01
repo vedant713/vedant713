@@ -87,13 +87,13 @@
 | [Multi-Agent Brainstorming System](https://github.com/vedant713/multi-agent-brainstorming-system) | [Zero Click Assistant Sleek](https://github.com/vedant713/zero-click-assistant-sleek) |
 | :---: | :---: |
 | [![Brainstorming](./assets/images/brainstorming.png)](https://github.com/vedant713/multi-agent-brainstorming-system) | [![Zero Click](./assets/images/zero-click.png)](https://github.com/vedant713/zero-click-assistant-sleek) |
-| **Orchestrating AI for Deep Thought.** <br> A sophisticated platform where specialized AI agents (Optimist, Skeptic, Analyst) engage in continuous, progressive debate to generate and refine complex ideas. Features real-time streaming, semantic clustering, and contextual file analysis. | **Automation at the Speed of Thought.** <br> A "read-my-screen" AI assistant built with Electron and React. Features continuous voice interaction, screen context awareness for instant answers, and zero-click workflow automation. |
+| **Orchestrating AI for Deep Thought.** <br> • Specialized Agents (Optimist, Skeptic, Analyst) <br> • Continuous, progressive debate <br> • Real-time streaming & semantic clustering | **Automation at the Speed of Thought.** <br> • "Read-my-screen" AI assistant <br> • Continuous voice interaction <br> • Zero-click workflow automation |
 | `Python` `Gemini` `Next.js` `Supabase` | `Electron` `React` `OpenAI` `Automation` |
 
 | [AI Job Search Companion](https://github.com/vedant713/ai-job-search-companion) | [Workday Skills Autofill](https://github.com/vedant713/workday-skills-autofill) |
 | :---: | :---: |
 | [![Job Search](./assets/images/job-search.png)](https://github.com/vedant713/ai-job-search-companion) | [![Workday](./assets/images/workday.png)](https://github.com/vedant713/workday-skills-autofill) |
-| **Your Intelligent Career Copilot.** <br> A full-stack job application management suite. Features AI-powered analytics to track applications, a smart dashboard for managing tasks, and tools to identify and bridge skill gaps for your target roles. | **80% Faster Job Applications.** <br> A powerful Chrome extension that automates the tedious Workday skills entry process. Features Resume Parsing to auto-extract skills, Job Match Scanning to find missing keywords, and multiple profile support. |
+| **Your Intelligent Career Copilot.** <br> • AI-powered application tracking <br> • Smart dashboard for task management <br> • Skill gap identification & bridging | **80% Faster Job Applications.** <br> • Automates Workday skills entry <br> • Resume Parsing auto-extracts skills <br> • Job Match Scanning & Gap Analysis |
 | `Next.js` `MySQL` `Recharts` `AI Analytics` | `JavaScript` `Chrome Extension` `Automation` |
 
 ---
