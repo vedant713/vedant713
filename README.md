@@ -87,14 +87,14 @@
 | [Multi-Agent Brainstorming System](https://github.com/vedant713/multi-agent-brainstorming-system) | [Zero Click Assistant Sleek](https://github.com/vedant713/zero-click-assistant-sleek) |
 | :---: | :---: |
 | [![Brainstorming](./assets/images/brainstorming.png)](https://github.com/vedant713/multi-agent-brainstorming-system) | [![Zero Click](./assets/images/zero-click.png)](https://github.com/vedant713/zero-click-assistant-sleek) |
-| **Think Deeper, Faster.** <br> A structured idea generation platform leveraging multiple AI agents (Debate, Research, Supervisor) to facilitate deep brainstorming and synthesis. | **Effortless Automation.** <br> An advanced personal assistant designed for zero-friction automation, handling tasks with minimal user interaction. |
-| `Python` `Gemini` `Streamlit` | `Python` `Automation` `AI` |
+| **Orchestrating AI for Deep Thought.** <br> A sophisticated platform where specialized AI agents (Optimist, Skeptic, Analyst) engage in continuous, progressive debate to generate and refine complex ideas. Features real-time streaming, semantic clustering, and contextual file analysis. | **Automation at the Speed of Thought.** <br> A "read-my-screen" AI assistant built with Electron and React. Features continuous voice interaction, screen context awareness for instant answers, and zero-click workflow automation. |
+| `Python` `Gemini` `Next.js` `Supabase` | `Electron` `React` `OpenAI` `Automation` |
 
 | [AI Job Search Companion](https://github.com/vedant713/ai-job-search-companion) | [Workday Skills Autofill](https://github.com/vedant713/workday-skills-autofill) |
 | :---: | :---: |
 | [![Job Search](./assets/images/job-search.png)](https://github.com/vedant713/ai-job-search-companion) | [![Workday](./assets/images/workday.png)](https://github.com/vedant713/workday-skills-autofill) |
-| **Your Career Copilot.** <br> Full-stack platform using React, Next.js, and MySQL for AI-driven job query assistance and smart task management. | **Automate the Mundane.** <br> Chrome extension automating Workday skill updates, reducing manual entry time by 80%. |
-| ![](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white) | ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![](https://img.shields.io/badge/Chrome_Extension-4285F4?style=flat-square&logo=google-chrome&logoColor=white) |
+| **Your Intelligent Career Copilot.** <br> A full-stack job application management suite. Features AI-powered analytics to track applications, a smart dashboard for managing tasks, and tools to identify and bridge skill gaps for your target roles. | **80% Faster Job Applications.** <br> A powerful Chrome extension that automates the tedious Workday skills entry process. Features Resume Parsing to auto-extract skills, Job Match Scanning to find missing keywords, and multiple profile support. |
+| `Next.js` `MySQL` `Recharts` `AI Analytics` | `JavaScript` `Chrome Extension` `Automation` |
 
 ---
 
