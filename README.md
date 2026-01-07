@@ -4,7 +4,7 @@
       <td width="60%" align="left">
         <h1>Hi, I'm Vedant! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
         <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F80C93&width=435&lines=Software+Engineer;AI+%26+Data+Scientist;Open+Source+Contributor" alt="Typing SVG" width="100%" />
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F80C93&width=435&lines=Software+Engineer;AI+%26+ML+Engineer;Open+Source+Contributor" alt="Typing SVG" width="100%" />
         </a>
         <br/>
         <b>AI-driven Software Engineer | Full-Stack Developer</b><br/>
